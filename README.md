@@ -69,24 +69,13 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+## 🔥 My Stats:
 
-###
+![GitHub Streak](https://streak-stats.demolab.com?user=chamindumo&theme=dracula&hide_border=false)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamindumo&show_icons=true&theme=dracula)
 
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=lasandri &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasandri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasandri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chamindumo&layout=compact&theme=dracula)
 
 ###
 **chamindumo/chamindumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
