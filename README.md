@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">Hi 👋 I'm chamindu moramudali</h1>
+<h1 align="center">Hi 👋 I'm chamindu moramudali</h1>
 
 ###
 <p align="left">✨ I'm currently studying at University of Westminster (IIT).<br>I worked at Opiksoft.<br>📚 I'm currently learning cybersecurity.<br>💡 I have experience with React, .NET, Java, Machine Learning, and Node.js.<br>😎 Pursuing Music and YouTube as hobbies/side hustles.</p>
@@ -104,4 +104,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
