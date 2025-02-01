@@ -88,7 +88,6 @@
 ## 📬 Contact:
 
 - Email: [janithramoramudali@gmail.com](mailto:your-janithramoramudali@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/chamindu-moramudali-827585225)
 - Phone: +94701871526
   
 Here are some ideas to get you started:
