@@ -37,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
 </div>
 
 ###
@@ -87,7 +88,7 @@
 
 ## 📬 Contact:
 
-- Email: [janithramoramudali@gmail.com](mailto:your-janithramoramudali@gmail.com)
+- Email: [janithramoramudali@gmail.com](mailto:janithramoramudali@gmail.com)
 - Phone: +94701871526
   
 Here are some ideas to get you started:
