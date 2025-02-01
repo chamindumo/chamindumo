@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm chamindu moramudali</h1>
 
 ###
-<p align="left">✨ I'm currently studying at University of Westminster (IIT).<br>I worked at Opiksoft.<br>📚 I'm currently learning cybersecurity.<br>💡 I have experience with React, .NET, Java, Machine Learning, and Node.js.<br>😎 Pursuing Music and YouTube as hobbies/side hustles.</p>
+<p align="left">✨ I'm currently studying at University of Westminster (IIT).<br>👩‍💻 I worked at Opiksoft (PVT) LTD.<br>📚 I'm currently learning cybersecurity.<br>💡 I have experience with React, .NET, Java, Machine Learning, and Node.js.<br>😎 Pursuing Music and YouTube as hobbies/side hustles.</p>
 
 <h2 align="left">👩‍💻 About me</h2>
 
@@ -78,10 +78,16 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chamindumo&layout=compact&theme=dracula)
 
 ###
+## 🛠 Skills:
 
+- Programming Languages: Java, JavaScript, Python, C#
+- Frameworks: React, .NET, Spring
+- Tools: GitHub, VSCode, IntelliJ, Figma, Postman
+- Others: Cybersecurity, Steganography
+- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cyberVali project to detect the stego images 
 - 🌱 I’m currently learning cyber security 
-- 📫 How to reach me: +94701871526
+- 📫 How to reach me: [janithramoramudali@gmail.com](mailto:your-janithramoramudali@gmail.com)
 
