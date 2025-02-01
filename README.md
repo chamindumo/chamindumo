@@ -73,7 +73,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif"  />
 
 ###
 
