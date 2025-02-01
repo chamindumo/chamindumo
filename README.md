@@ -37,7 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" alt=".net logo"  />
+  
 </div>
 
 ###
