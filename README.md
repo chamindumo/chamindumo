@@ -84,10 +84,15 @@
 - Frameworks: React, .NET, Spring
 - Tools: GitHub, VSCode, IntelliJ, Figma, Postman
 - Others: Cybersecurity, Steganography
-- 
+
+## 📬 Contact:
+
+- Email: [janithramoramudali@gmail.com](mailto:your-janithramoramudali@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/chamindu-moramudali-827585225)
+- Phone: +94701871526
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cyberVali project to detect the stego images 
 - 🌱 I’m currently learning cyber security 
-- 📫 How to reach me: [janithramoramudali@gmail.com](mailto:your-janithramoramudali@gmail.com)
 
