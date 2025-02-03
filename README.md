@@ -84,9 +84,9 @@
 ## 🛠 Skills:
 
 - Programming Languages: Java, JavaScript, Python, C#
-- Frameworks: React, .NET, Spring
+- Frameworks: React, .NET
 - Tools: GitHub, VSCode, IntelliJ, Figma, Postman
-- Others: Cybersecurity, Steganography
+- Others: Cybersecurity
 
 ## 📬 Contact:
 
